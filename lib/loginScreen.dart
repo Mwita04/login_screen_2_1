@@ -199,10 +199,10 @@ class _LoginScreenState extends State<LoginScreen> {
                         begin: Alignment.topCenter,
                         end: Alignment.bottomCenter,
                         colors: [
-                      Color(0x00aac1c9),
-                      Color(0xCC5ac18e),
-                      Color(0xff5ac18e),
-                      Color(0xff5ac18e),
+                      Color(0xffaac12e),
+                      Color(0xCC5ac15e),
+                      Color(0xff5ac14e),
+                      Color(0xff5ac12e),
                     ])),
                 child: SingleChildScrollView(
                   physics: AlwaysScrollableScrollPhysics(),
